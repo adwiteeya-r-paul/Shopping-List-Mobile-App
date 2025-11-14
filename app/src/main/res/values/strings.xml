@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="sorted_by_price">Sorted By Price!</string>
+    <string name="nothing_here_for_now">Nothing here for now!</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+    <string name="new_item">New Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="item_title">Item title</string>
+    <string name="item_description">Item description</string>
+    <string name="item_price">Item price</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="error">error</string>
+    <string name="food">Food</string>
+    <string name="clothes">Clothes</string>
+    <string name="stationaries">Stationaries</string>
+    <string name="toiletries">Toiletries</string>
+    <string name="misc">Misc</string>
+    <string name="price_field_only_accepts_numbers">Price field only accepts numbers</string>
+    <string name="save">Save</string>
+    <string name="delete_all_items">Delete All Items?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty" />
+    <string name="your_flash_cart">Your Flash Cart !</string>
+    <string name="sort_by">Sort by $$</string>
+</resources>
