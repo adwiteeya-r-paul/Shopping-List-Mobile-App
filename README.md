@@ -10,8 +10,8 @@ Click here for a demo video: [https://github.com/adwiteeya-r-paul/ShoppingList/i
 - It uses the Navigation Backstack, Dialog Boxes, the Room Database with its basic SQL queries and DAO functionalities.
 - It supports:
   - a filter functionality to sort the items based on prices
-  - Sound Effects during transitions and
-  - different icons for each food category.
-  - Editing and deleting items added previously and checking off items already bought. 
+  - Sound Effects during transitions
+  - different icons for each food category
+  - Editing and deleting items added previously and checking off items already bought
 
 
